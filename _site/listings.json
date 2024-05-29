@@ -1,0 +1,30 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/new-article/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/new-article/index.html",
+    "items": [
+      "/posts/new-article/article_Okm_anatomie/var_okm_keva.html"
+    ]
+  },
+  {
+    "listing": "/acceuil.html",
+    "items": [
+      "/presentation/header/index.html"
+    ]
+  },
+  {
+    "listing": "/articles.html",
+    "items": [
+      "/posts/new-article/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

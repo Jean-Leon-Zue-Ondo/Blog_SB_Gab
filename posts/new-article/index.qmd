@@ -1,0 +1,22 @@
+---
+title: "Caractérisation et variabilité des propriétés physiques et structurelles du bois du kevazingo, Guibourtia tessmannii, et de l’okoumé, Aucoumea klaineana, provenant des forêts naturelles du Gabon"
+title-block-banner: true
+author: "ZUE ONDO Jean leon"
+date: "2021-02-25"
+categories: [Anatomie du bois]
+image: "Tronc-Okoumé.jpg"
+---
+
+## RESUME {#resume}
+
+###### La caractérisation et l’analyse de la variabilité des paramètres structuraux et des propriétés physiques du bois ont été réalisées chez le kevazingo (Guibourtia tessmannii) et l’okoumé (Aucoumea klaineana), deux espèces gabonaises à forte valeur économique. En parallèle aux caractéristiques technologiques telles que le retrait ou le point de saturation des fibres, une caractérisation fine de la structure du bois (angle des microfibrilles, angle du fil, microdensité) a été réalisée. Chez les deux espèces, les valeurs moyennes observées pour chaque propriété ont été comparées aux valeurs de la littérature. {.article style="text-align: justify; line-height: 150%;"}
+
+###### L’analyse de la variabilité des différentes propriétés permet d’identifier la position radiale (effet de la distance à la moelle) comme principale source de variabilité des propriétés du bois chez le kevazingo, alors que pour l’okoumé la variabilité des propriétés provient non seulement de la distance à la moelle mais aussi de la variabilité entre les rayons (barreaux issus du même arbre) et entre les arbres. {.article style="text-align: justify; line-height: 150%;"}
+
+![Okoumé, Aucoumea klaineana, l’arbre, l’aubier et l’écorce](Okoume.png){fig-align="center"}
+
+##### Pour citer l’article:
+
+##### Zue Ondo J.-L., Ruelle J., Dlouha J., Fournier M., 2021. Caractérisation et variabilité des propriétés physiques et structurelles du bois du kevazingo, Guibourtia tessmannii, et de l’okoumé, Aucoumea klaineana, provenant des forêts naturelles du Gabon. Bois et Forêts des Tropiques, 347 : 41-57. {#citation .text style="line-height: 150%; text-align: justify;"}
+
+##### Lien vers l'acticle complèt :<https://doi.org/10.19182/bft2021.347.a31939>

@@ -1,0 +1,37 @@
+project:
+  type: website
+  
+website:
+  title: "Forêts et Bois d’Afrique"
+  body-header: | 
+   ![Logo image](/images/img-2.jpg)
+  body-footer: | 
+   ![Logo image](/images/img-1.jpg)
+  page-footer:
+    left: "Copyright 2024, Jean Leon ZUe Ondo" 
+    background: green
+  navbar:
+    left: 
+      - text: "Acceuil"
+        file: acceuil.qmd
+      - text: "Projet"
+        file: Projet.qmd
+      - text: "Articles"
+        file: articles.qmd
+      - text: "Organisation"
+        file: about.qmd
+      - text: "Contact"
+        file: Contact.qmd
+    right:
+      
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: minty
+    css: styles.css
+
+editor: visual
+

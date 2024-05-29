@@ -1,0 +1,8 @@
+---
+title: "news publications"
+listing:
+  contents: posts
+  type: default
+---
+
+# 

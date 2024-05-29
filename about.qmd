@@ -1,0 +1,36 @@
+---
+title: "Notre organisation"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+### Qui sommes nous ? {style="text-align: left;"}
+
+<br>
+
+###### Bois et Fibres du Gabon est une plateforme numérique dédiée à l'exploration et à l'avancement des connaissances dans les domaines de la foresterie, du bois et de ses produits dérivés. Initié par le Groupe de Recherche en Science du Bois et des Fibres (GRSBF), ce blog constitue un carrefour d'échange et de partage où des chercheurs gabonais de renom mettent à profit leur expertise pour impulser l'innovation et stimuler la recherche autour du bois et de ses multiples applications. À travers ce portail, le GRSBF vise à contribuer significativement au développement durable et à la valorisation des ressources forestières, en offrant des perspectives novatrices et des solutions concrètes aux défis contemporains liés à l'utilisation du bois et de ses dérivés. {#about .text style="text-align: justify; line-height: 150%;"}
+
+### Notre Equipe
+
+<br>
+
+<br>
+
+::: {#image .image style="display: flex; gap: 10%;"}
+![<strong>Arsène Bikoro</strong>:<br> Dr. Wood sciences, polymers chemistry University of Freiburg](Arsene.png){style="font-size: x-small;" width="123"}
+
+![<strong>Claude Feldman Pambou Nziengui</strong>: <br> Dr. Matériaux et Structures <br> Université de MASUKU](claude.png){width="122"}
+
+![<strong>Walter Fiacre BEDOUNGUINDZI</strong>: <br> Dr. en Sc du Bois et des Fibres (IPHAMETRA)](Waiter.png){style="font-size: x-small;" width="121"}
+:::

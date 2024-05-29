@@ -1,0 +1,13 @@
+---
+title: "article 2"
+author: "auteur-2"
+date: "2024-02-08"
+categories: [ analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
